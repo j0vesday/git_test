@@ -1,0 +1,16 @@
+2024-09-17 16:48:39.154 [info] 
+
+
+
+
+2024-09-17 16:48:39.154 [info] Extension host agent started.
+2024-09-17 16:48:39.212 [info] [127.0.0.1][df4caa2e][ManagementConnection] New connection established.
+2024-09-17 16:48:39.936 [info] [127.0.0.1][432ecca4][ExtensionHostConnection] New connection established.
+2024-09-17 16:48:40.017 [info] [127.0.0.1][432ecca4][ExtensionHostConnection] <1117> Launched Extension Host Process.
+2024-09-17 17:01:32.281 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-17 17:10:52.046 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-17 18:44:08.753 [info] [127.0.0.1][df4caa2e][ManagementConnection] The client has reconnected.
+2024-09-17 18:44:09.727 [info] [127.0.0.1][432ecca4][ExtensionHostConnection] The client has reconnected.
+2024-09-17 19:41:44.680 [info] [127.0.0.1][df4caa2e][ManagementConnection] The client has reconnected.
+2024-09-17 19:41:45.293 [info] [127.0.0.1][432ecca4][ExtensionHostConnection] The client has reconnected.
+2024-09-17 20:53:50.083 [info] [127.0.0.1][df4caa2e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

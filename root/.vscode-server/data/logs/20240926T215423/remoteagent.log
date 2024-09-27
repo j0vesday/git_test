@@ -1,0 +1,24 @@
+2024-09-26 21:54:24.434 [info] 
+
+
+
+
+2024-09-26 21:54:24.511 [info] Extension host agent started.
+2024-09-26 21:54:24.998 [info] [127.0.0.1][9dd77f15][ManagementConnection] New connection established.
+2024-09-26 21:54:29.815 [info] [127.0.0.1][85986954][ExtensionHostConnection] New connection established.
+2024-09-26 21:54:29.965 [info] [127.0.0.1][85986954][ExtensionHostConnection] <488> Launched Extension Host Process.
+2024-09-26 21:55:16.375 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 22:05:44.473 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 22:09:34.816 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 22:54:37.241 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-09-26 22:54:37.278 [error] Error: Unable to resolve nonexistent file '/root/.vscode-server/extensions'
+    at o.resolve (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:128:5171)
+    at async Q.s (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:58923)
+    at async Q.scanExtensions (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:58678)
+    at async a.scanUserExtensions (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:50898)
+    at async /root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:53276
+    at async a.scanUserExtensions (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:51030)
+    at async ee.scanExtensions (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:84531)
+    at async g.call (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:131:27856)
+2024-09-26 22:55:19.153 [info] [127.0.0.1][9dd77f15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-26 22:55:20.345 [info] [127.0.0.1][85986954][ExtensionHostConnection] <488> Extension Host Process exited with code: 0, signal: null.

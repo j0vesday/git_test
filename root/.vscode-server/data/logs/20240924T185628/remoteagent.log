@@ -1,0 +1,26 @@
+2024-09-24 18:56:30.378 [info] 
+
+
+
+
+2024-09-24 18:56:30.380 [info] Extension host agent started.
+2024-09-24 18:56:30.527 [info] [127.0.0.1][a7c8e7a0][ManagementConnection] New connection established.
+2024-09-24 18:56:35.331 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] New connection established.
+2024-09-24 18:56:35.380 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] <73793> Launched Extension Host Process.
+2024-09-24 19:12:57.562 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-24 19:15:36.236 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-09-24 19:32:27.510 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-24 20:05:13.642 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] The client has reconnected.
+2024-09-24 20:05:20.891 [info] [127.0.0.1][a7c8e7a0][ManagementConnection] The client has reconnected.
+2024-09-24 20:08:28.145 [info] [127.0.0.1][a7c8e7a0][ManagementConnection] The client has reconnected.
+2024-09-24 20:08:28.904 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] The client has reconnected.
+2024-09-24 20:08:44.065 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:27:36.840 [info] [127.0.0.1][a7c8e7a0][ManagementConnection] The client has reconnected.
+2024-09-26 21:27:38.740 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:27:46.883 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] The client has reconnected.
+2024-09-26 21:33:32.787 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:34:31.388 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:43:41.729 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:51:26.155 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-26 21:53:18.175 [info] [127.0.0.1][a7c8e7a0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-26 21:53:23.505 [info] [127.0.0.1][d6a54b16][ExtensionHostConnection] <73793> Extension Host Process exited with code: 0, signal: null.

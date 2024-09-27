@@ -1,0 +1,11 @@
+[user]
+	name = j0vesday
+	email = 181892401+j0vesday@users.noreply.github.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	editor = code --wait
